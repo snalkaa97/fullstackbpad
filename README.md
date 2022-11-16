@@ -5,8 +5,8 @@ email: sfnalkatiri@gmail.com
 
 
 ## Link Backend
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Laravel App BPAD](https://github.com/snalkaa97/backend-bpad).
 
 
 ## Link frontend
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[React App BPAD](https://github.com/snalkaa97/frontend-bpad).
